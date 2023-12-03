@@ -10,7 +10,7 @@ This project aims to deploy an LSTM model trained on audio data to predict the g
 
 ### Requirements
 
-- Python (version x.x.x)
+- Python (version 3.11.0)
 - Libraries (list libraries and versions)
 
 ### Installation
@@ -64,15 +64,14 @@ This project can be deployed using various platforms like Heroku, AWS, GCP, etc.
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Mention any contributors or resources you used or were inspired by.
 - Acknowledge libraries, frameworks, or tools utilized in the project.
 
-## Contact
 
-For any inquiries or suggestions, feel free to contact [Your Name] - [Your Email].
+
+For a visual walkthrough of how to deploy this model, check out this [YouTube video tutorial](https://youtu.be/CO6KYKTlhJ4).
+
